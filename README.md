@@ -147,30 +147,39 @@ def test_prediction(index, W1, b1, W2, b2):
 ## Output :
 
 Y_TRAIN:
+
 ![Y_train](https://github.com/maha712/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121156360/12abf284-7db5-48cc-ac46-7729272559ef)
 
 ITERATIONS FROM 1-100:
+
 ![mmm](https://github.com/maha712/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121156360/9483f7f8-21a9-4f46-83a9-1389868bb8c4)
 
 ITERATIONS FROM 110-230:
+
 ![3333](https://github.com/maha712/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121156360/bd626768-b640-4c46-a55e-e25cdf4ef478)
 
 ITERATIONS FROM 240-340:
+
 ![44444](https://github.com/maha712/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121156360/c51e33df-d69c-43be-a737-fec2820033ef)
 
 ITERATIONS FROM 350-450:
+
 ![mmmm](https://github.com/maha712/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121156360/e8fe7bf4-76cd-4fe8-a77e-2d870edb54d5)
 
 ITERATIONS FROM 460-490:
+
 ![kkkkk](https://github.com/maha712/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121156360/e70437bf-0f8b-4ada-8bc6-a6377fdfeea2)
 
 PREDICTING 5:
+
 ![jjjjjjjjjj](https://github.com/maha712/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121156360/2edc4e0e-e7d1-4624-a965-363f3e68eb82)
 
 PREDICTING 2:
+
 ![eeeeeeeeeeee](https://github.com/maha712/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121156360/c3d859ea-1f82-4fc3-8921-32fbc1ce58cf)
 
 DEV_PREDICTIONS:
+
 ![yyyyyyy](https://github.com/maha712/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121156360/adb04543-83b9-482c-b80e-b6f0f40d864d)
 
 ACCURACY:
@@ -178,3 +187,4 @@ ACCURACY:
 
 
 ## Result:
+Thus, the program to recognize the handwritten digits using the multi-layer perceptron (MLP) is developed and executted successfully.
